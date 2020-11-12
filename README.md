@@ -105,3 +105,11 @@ To run the local server run ```yarn start``` from the ```marketplace``` folder a
 5. User can see the occupied in the side calendar to better select the date and time of their request
 6. A new provider can request to be included on the provider list filling the form show by clicking the top left
 7. Providers can be approved by Admin Users editing the approval flag
+
+#### TODO
+- Add react router to manage content page
+- Add map view to show providers when one is not selected
+- Add context to manage state and eventually users
+- Improve error catching for data fetching
+- Move appointemnt component to a modal to have more realstate
+- ...
